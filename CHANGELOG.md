@@ -1,0 +1,1 @@
+All notable changes to the "pinki" extension will be documented in this file
