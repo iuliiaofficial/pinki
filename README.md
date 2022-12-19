@@ -1,5 +1,5 @@
 ### pinki by iullia
 
-Here is the best dark pink theme for vscode!
+Here is the best dark pink theme!
 
-![Image](https://github.com/iuliiaofficial/pinki/blob/main/images/pi.png)
+![Image](/images/pi.png)
