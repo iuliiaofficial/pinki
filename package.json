@@ -5,10 +5,10 @@
         "vscode": ">=0.9.0-pre.1"
     },
     "publisher": "iuliiaofficial",
-    "icon": "images/pinki-logo.png",
+    "icon": "https://github.com/iuliiaofficial/pinki/blob/main/images/pinki-logo.png",
     "repositiry": {
         "type": "git",
-        "url": "https://github.com/iuliiaofficial/pinki"
+        "url": "https://github.com/iuliiaofficial/pinki.git"
     },
     "keywords": [
         "dark theme",
